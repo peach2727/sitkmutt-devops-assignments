@@ -5,4 +5,3 @@
 * Castafiore, An opera singer
     * Has white hair
     * Is possibly mentally unwell
-123
